@@ -67,7 +67,7 @@ A selection of projects across security operations, cloud security, network defe
 <tr>
 <td width="50%">
 
-### [CloudLens](https://github.com/YOURUSERNAME/CloudLens)
+### [CloudLens](https://github.com/vishwas-adhikari/CloudLens-IAM)
 
 Maps AWS IAM trust relationships as a graph to surface potential privilege-escalation paths. Builds a visual trust graph of users, roles, and policies, then calculates an account-level risk score based on reachable high-privilege principals and risky permission combinations.
 
@@ -76,7 +76,7 @@ Maps AWS IAM trust relationships as a graph to surface potential privilege-escal
 </td>
 <td width="50%">
 
-### [SOC Analyst Profile](https://github.com/YOURUSERNAME/SOC-Analyst-Profile)
+### [SOC Analyst Profile](https://github.com/vishwas-adhikari/SOC-Analyst-Profile)
 
 A collection of **40+ end-to-end alert investigations** from simulated SOC environments. Each case documents evidence collection, indicators of compromise, MITRE ATT&CK mapping, investigation timeline, and final verdict. Also includes a practical detection handbook.
 
@@ -87,7 +87,7 @@ A collection of **40+ end-to-end alert investigations** from simulated SOC envir
 <tr>
 <td width="50%">
 
-### [homoglyph-tool](https://github.com/YOURUSERNAME/homoglyph-tool)
+### [homoglyph-tool](https://github.com/vishwas-adhikari/homoglyph-tool)
 
 Detects and generates lookalike phishing domains by decoding Punycode and scoring cross-script character similarity. Useful for identifying homograph attacks that abuse Unicode characters to impersonate legitimate brands. Built with Django.
 
