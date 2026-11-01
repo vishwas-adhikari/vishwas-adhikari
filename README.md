@@ -147,20 +147,6 @@ A growing collection of practical security engineering implementations and notes
 | SIEM Engineer Path | LetsDefend |
 
 
-## Notes & Writing
 
-I write about **malware analysis, SOC detection and cloud security**.
-
-[Read my writing on Medium](YOUR_MEDIUM_PROFILE_URL)
-
----
-
-<div align="center">
-
-```text
-[ curiosity.exe ]  [ research.log ]  [ keep_learning.sh ]
-```
-
-*Understand the system. Find the weakness. Improve the defense.*
 
 </div>
