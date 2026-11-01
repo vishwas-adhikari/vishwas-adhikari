@@ -1,7 +1,6 @@
 <div align="center">
 
-<img width="2172" height="724" alt="banner" src="https://github.com/user-attachments/assets/8b51c50f-3d06-42b2-b459-5f3ae9f9d72c" />
-
+<img width="2136" height="434" alt="banner" src="https://github.com/user-attachments/assets/44135b34-d4fa-41e8-aaff-68e65940990c" />
 
 </div>
 
@@ -79,34 +78,12 @@ I participate in CTFs to strengthen practical problem-solving and learn across d
 
 ## Experience
 
-**Security Researcher — Independent**  
-*2025 – Present*
-
-- Research and report vulnerabilities through vendor programmes and CERT-In.
-- Received acknowledgments from IBM PSIRT and Nokia.
-- Identified and reported a critical remote code execution vulnerability during an authorized penetration test.
-
-**Security Intern — BytesEncrypt**  
-*January – April 2026*
-
-- Contributed to the development of a blue-team training platform.
-- Created SOC and incident-response labs.
-- Security-tested the platform ahead of launch.
-
-**Technical Lead — ZeroCrypt Cybersecurity Club**  
-*September 2025 – Present*
-
-- Helped establish and grow the college cybersecurity club to **60+ members**.
-- Organized CTF events for **100+ participants**.
-- Contributed to practical workshops and hands-on security learning.
-
-**Cybersecurity Intern — Digisuraksha Prahari Foundation**  
-*July – September 2025*
-
-- Analyzed the RuKometa Trojan.
-- Prepared threat-intelligence reports mapped to MITRE ATT&CK.
-- Built supporting detection tooling.
-
+| Role | Organization | Period | Highlights |
+|------|--------------|--------|------------|
+| **Security Researcher** | Independent | 2025 – Present | Vulnerability research & coordinated disclosure (IBM PSIRT, Nokia). Critical RCE found during authorized testing. |
+| **Security Intern** | BytesEncrypt | Jan – Apr 2026 | Built blue-team training platform, created SOC/IR labs, security-tested pre-launch. |
+| **Technical Lead** | ZeroCrypt Cybersecurity Club | Sep 2025 – Present | Grew club to 60+ members, organized CTFs for 100+ participants, ran hands-on workshops. |
+| **Cybersecurity Intern** | Digisuraksha Prahari Foundation | Jul – Sep 2025 | Analyzed RuKometa Trojan, produced MITRE ATT&CK-mapped threat reports, built detection tooling. |
 
 ## Selected Projects
 
