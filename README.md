@@ -59,33 +59,6 @@ I participate in CTFs to strengthen practical problem-solving and learn across d
 | BSides Bangalore B5CTF 2025 | **Top 5** · ~50 teams |
 | CTFtime 2025 | **Zerocrypt — #40 in India (2025)** |
 
-## Technical Toolkit
-
-| Area | Focus |
-|:--|:--|
-| **Security Operations** | Alert triage · Log analysis · Splunk · Wazuh · EDR investigation · MITRE ATT&CK |
-| **Incident Response** | Incident triage · Containment · IR playbooks · IOC extraction |
-| **Malware Analysis** | Static and dynamic analysis · Ghidra · Any.Run · Windows internals |
-| **Vulnerability Research** | Access-control and authentication flaws · OWASP Top 10 · Burp Suite |
-| **Cloud Security** | AWS IAM reviews · Trust relationships · Privilege-escalation paths |
-
-**Languages**
-
-`Python` &nbsp; `Bash` &nbsp; `SQL` &nbsp; `C`
-
-**Tools & Platforms**
-
-`Splunk` &nbsp; `Wazuh` &nbsp; `Burp Suite` &nbsp; `Wireshark` &nbsp; `Ghidra` &nbsp; `Nmap` &nbsp; `Docker` &nbsp; `AWS`
-
-## Experience
-
-| Role | Organization | Period | Highlights |
-|------|--------------|--------|------------|
-| **Security Researcher** | Independent | 2025 – Present | Vulnerability research & coordinated disclosure  |
-| **Security Intern** | BytesEncrypt | Jan – Apr 2026 | Built blue-team training platform, created SOC/IR labs, security-tested pre-launch. |
-| **Technical Lead** | ZeroCrypt Cybersecurity Club | Sep 2025 – Present | Grew club to 60+ members, organized CTFs for 100+ participants, ran hands-on workshops. |
-| **Cybersecurity Intern** | Digisuraksha Prahari Foundation | Jul – Sep 2025 | Analyzed RuKometa Trojan, produced MITRE ATT&CK-mapped threat reports, built detection tooling. |
-
 ## Selected Projects
 
 A selection of projects across security operations, cloud security, network defense, and security tooling.
@@ -133,7 +106,36 @@ A growing collection of practical security engineering implementations and notes
 </tr>
 </table>
 
+## Experience
 
+| Role | Organization | Period | Highlights |
+|------|--------------|--------|------------|
+| **Security Researcher** | Independent | 2025 – Present | Vulnerability research & coordinated disclosure  |
+| **Security Intern** | BytesEncrypt | Jan – Apr 2026 | Built blue-team training platform, created SOC/IR labs, security-tested pre-launch. |
+| **Technical Lead** | ZeroCrypt Cybersecurity Club | Sep 2025 – Present | Grew club to 60+ members, organized CTFs for 100+ participants, ran hands-on workshops. |
+| **Cybersecurity Intern** | Digisuraksha Prahari Foundation | Jul – Sep 2025 | Analyzed RuKometa Trojan, produced MITRE ATT&CK-mapped threat reports, built detection tooling. |
+
+
+
+
+## Technical Toolkit
+
+| Area | Focus |
+|:--|:--|
+| **Security Operations** | Alert triage · Log analysis · Splunk · Wazuh · EDR investigation · MITRE ATT&CK |
+| **Incident Response** | Incident triage · Containment · IR playbooks · IOC extraction |
+| **Malware Analysis** | Static and dynamic analysis · Ghidra · Any.Run · Windows internals |
+| **Vulnerability Research** | Access-control and authentication flaws · OWASP Top 10 · Burp Suite |
+| **Cloud Security** | AWS IAM reviews · Trust relationships · Privilege-escalation paths |
+
+
+**Languages**
+
+`Python` &nbsp; `Bash` &nbsp; `SQL` &nbsp; `C`
+
+**Tools & Platforms**
+
+`Splunk` &nbsp; `Wazuh` &nbsp; `Burp Suite` &nbsp; `Wireshark` &nbsp; `Ghidra` &nbsp; `Nmap` &nbsp; `Docker` &nbsp; `AWS`
 ## Certifications
 
 | Certification / Programme | Issuer |
