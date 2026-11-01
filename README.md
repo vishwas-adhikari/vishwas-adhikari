@@ -1,6 +1,7 @@
 <div align="center">
 
-<img width="2136" height="434" alt="banner" src="https://github.com/user-attachments/assets/44135b34-d4fa-41e8-aaff-68e65940990c" />
+<img width="2172" height="427" alt="banner" src="https://github.com/user-attachments/assets/c6d5bc1a-dcd4-4388-8820-a2b270395bdb" />
+
 
 </div>
 
@@ -80,7 +81,7 @@ I participate in CTFs to strengthen practical problem-solving and learn across d
 
 | Role | Organization | Period | Highlights |
 |------|--------------|--------|------------|
-| **Security Researcher** | Independent | 2025 – Present | Vulnerability research & coordinated disclosure (IBM PSIRT, Nokia). Critical RCE found during authorized testing. |
+| **Security Researcher** | Independent | 2025 – Present | Vulnerability research & coordinated disclosure  |
 | **Security Intern** | BytesEncrypt | Jan – Apr 2026 | Built blue-team training platform, created SOC/IR labs, security-tested pre-launch. |
 | **Technical Lead** | ZeroCrypt Cybersecurity Club | Sep 2025 – Present | Grew club to 60+ members, organized CTFs for 100+ participants, ran hands-on workshops. |
 | **Cybersecurity Intern** | Digisuraksha Prahari Foundation | Jul – Sep 2025 | Analyzed RuKometa Trojan, produced MITRE ATT&CK-mapped threat reports, built detection tooling. |
@@ -133,15 +134,6 @@ A growing collection of practical security engineering implementations and notes
 </table>
 
 
-## Community & Knowledge Sharing
-
-Through **ZeroCrypt Cybersecurity Club at SJBIT**, I have contributed to practical learning sessions and community activities.
-
-| Session | Topic |
-|:--|:--|
-| ZeroCrypt workshop | Web application attacks |
-| ZeroCrypt workshop | Malware analysis and detection |
-
 ## Certifications
 
 | Certification / Programme | Issuer |
@@ -151,15 +143,11 @@ Through **ZeroCrypt Cybersecurity Club at SJBIT**, I have contributed to practic
 | Foundation Threat Intelligence Analyst | arcX |
 | SOC Analyst Path | LetsDefend |
 | SIEM Engineer Path | LetsDefend |
-| Advent of Cyber 2024 | TryHackMe |
+
 
 ## Notes & Writing
 
-I write about **Windows internals, malware analysis, SOC detection and cloud security**.
-
-My main DLL series explores how Windows loads dynamic-link libraries, how DLL hijacking works, and how attackers use DLL proxying techniques.
-
-**Topics:** Windows Internals · DLL Loading · DLL Hijacking · Malware Analysis · SOC Detection · Cloud Security
+I write about **malware analysis, SOC detection and cloud security**.
 
 [Read my writing on Medium](YOUR_MEDIUM_PROFILE_URL)
 
